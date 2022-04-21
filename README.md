@@ -1,4 +1,4 @@
-# CS 234 Lab 1: Hello World"
+# CS 234 Lab 1: "Hello World"
 
 ## Name: Albert William Mwangwa
 
