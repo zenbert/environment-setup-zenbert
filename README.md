@@ -1,5 +1,9 @@
 # CS 234 Lab 1: Hello World"
 
+## Name: Albert William Mwangwa
+
+## Reg. No: 2020-04-08906
+
 ## 1. Preliminaries
 **GitHub**. We're using GitHub to manage how all the code goes from us to you and back to us again. That means you'll need to create yourself an account at https://github.com. If you haven't already done so, you need to it now.
 
